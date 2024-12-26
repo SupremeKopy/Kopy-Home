@@ -1,25 +1,25 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "buzz"
+             "domain": "buzz.kopy-home.onrender.com"
          },
          "Filmpertutti": {
-             "domain": "diy"
+             "domain": "buzz.kopy-home.onrender.com"
          },
          "Tantifilm":{
-             "domain": "bond"
+             "domain": "buzz.kopy-home.onrender.com"
          },
          "Mysterius":{
-             "enabled": "0"    
+             "enabled": "buzz.kopy-home.onrender.com"    
          },
         "LordChannel":{
-             "domain":"com"
+             "domain":"buzz.kopy-home.onrender.com"
         },
         "StreamingWatch":{
-            "domain":"org"
+            "domain":"buzz.kopy-home.onrender.com"
         },
         "AnimeWorld":{
-            "domain":"so"
+            "domain":"buzz.kopy-home.onrender.com"
         },
         "SkyStreaming":{
             "domain":"buzz.kopy-home.onrender.com"
